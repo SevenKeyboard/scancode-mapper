@@ -6,7 +6,7 @@
 ; ScancodeMapper — Modifies the Scancode Map registry value (admin-only helper)
 ;
 ; GitHub: https://github.com/SevenKeyboard/scancode-mapper
-; Author: SevenKeyboard Ltd. (2025)
+; Author: SevenKeyboard Ltd. (2026)
 ; License: MIT License
 ;=============================================================
 if (!A_IsAdmin || !A_Args.Length)    {
