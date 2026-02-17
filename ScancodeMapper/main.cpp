@@ -1,5 +1,5 @@
 /**
- * @file ScancodeMapper.cpp
+ * @file main.cpp
  * @brief Modifies the Scancode Map registry value (admin-only helper)
  *
  * GitHub: https://github.com/SevenKeyboard/scancode-mapper
